@@ -9,3 +9,6 @@
   <img align="center" alt="vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
 
+<br>
+
+<img src="https://c.tenor.com/xMUclj_Bn9AAAAAC/jujutsu-kaisen-anime.gif">
