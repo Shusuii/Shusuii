@@ -8,7 +8,5 @@
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
-
 <br>
-
-<img src="https://c.tenor.com/xMUclj_Bn9AAAAAC/jujutsu-kaisen-anime.gif">
+<img align="center" height="190" width="200" src="https://c.tenor.com/xMUclj_Bn9AAAAAC/jujutsu-kaisen-anime.gif">
